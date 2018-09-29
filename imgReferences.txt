@@ -1,0 +1,46 @@
+
+Pokemon References: {
+//	num Pokemon:	"https://www.serebii.net/pokearth.sprites/pt/num.png"
+	
+	152 Chikorita: 	"https://www.serebii.net/pokearth/sprites/pt/152.png"
+	155 Cyndaquil: 	"https://www.serebii.net/pokearth/sprites/pt/155.png"
+	158 Totodile: 	"https://www.serebii.net/pokearth/sprites/pt/158.png"
+	290 Nincada:	"https://www.serebii.net/pokearth/sprites/pt/290.png"
+	300 Skitty: 	"https://www.serebii.net/pokearth/sprites/pt/300.png"
+	349 Freebas: 	"https://www.serebii.net/pokearth/sprites/pt/349.png"
+}
+
+Types: {
+//	type:		"https://www.serebii.net/pokedex-bw/type/type.gif"
+
+	Bug:		"https://serebii.net/pokedex-bw/type/bug.gif"
+	Dark:		"https://serebii.net/pokedex-bw/type/dark.gif"
+	Dragon:		"https://serebii.net/pokedex-bw/type/dragon.gif"
+	Electric:	"https://serebii.net/pokedex-bw/type/electric.gif"
+	Fairy:		"https://serebii.net/pokedex-bw/type/fairy.gif"
+	Fighting:	"https://serebii.net/pokedex-bw/type/fighting.gif"
+	Fire:		"https://serebii.net/pokedex-bw/type/fire.gif"
+	Flying:		"https://serebii.net/pokedex-bw/type/flying.gif"
+	Ghost:		"https://serebii.net/pokedex-bw/type/ghost.gif"
+	Grass:		"https://serebii.net/pokedex-bw/type/grass.gif"
+	Ground:		"https://serebii.net/pokedex-bw/type/ground.gif"
+	Ice:		"https://serebii.net/pokedex-bw/type/ice.gif"
+	Normal:		"https://serebii.net/pokedex-bw/type/normal.gif"
+	Poison:		"https://serebii.net/pokedex-bw/type/poison.gif"
+	Psychic:	"https://serebii.net/pokedex-bw/type/psychic.gif"
+	Rock:		"https://serebii.net/pokedex-bw/type/rock.gif"
+	Steel:		"https://serebii.net/pokedex-bw/type/steel.gif"
+	Water:		"https://serebii.net/pokedex-bw/type/water.gif"	
+}
+
+Items: {
+//	Item Name:		"https://www.serebii.net/itemdex/sprites/itemname.png"
+
+	Dome Fossil:	"https://www.serebii.net/itemdex/sprites/domefossil.png"
+	Max Repel:		"https://www.serebii.net/itemdex/sprites/maxrepel.png"
+}
+
+Trainers: {
+//	
+	Platinum Rival:	"https://www.serebii.net/pokearth/trainsers/pt/63.png"
+}
